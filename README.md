@@ -20,3 +20,5 @@ gas(google apps script)を使ったアプリです。LINEから使えるアプ�
 - 食事リセットをする操作は[このスクリプト](https://docs.google.com/spreadsheets/d/1HIIa2pAwfRJ6N3ImC2MEfVSNWZL6hiPCo8QCCbvgPU0/edit?usp=sharing)によって行われます。
 
 
+
+[ここ](https://lin.ee/cJ3o53K)でLINE追加することで、機能を確かめることができます。

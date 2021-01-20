@@ -7,6 +7,7 @@ gas(google apps script)を使ったアプリです。LINEから使えるアプ�
 - 食事の確認(今日のPFC、昨日のPFC、週単位や月単位などの統計情報)
 - Slisimという、食事名からカロリーを計算できるアプリを開けるようにしています。
 - 体重のリセット、食事のリセット(全てのデータをリセットする)
+
 体重データや食事データは[スプレッドシート](https://docs.google.com/spreadsheets/d/1HIIa2pAwfRJ6N3ImC2MEfVSNWZL6hiPCo8QCCbvgPU0/edit?usp=sharing)に保存しています。つまり、スプレッドシートをデータベースのように使っています。コードを見るには[ツール]->[スクリプトエディタ]と進んでください。ここでは、UIを定義しています。
 
 

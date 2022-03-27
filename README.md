@@ -1,3 +1,6 @@
+
+### ※現在アプリを動かしていません
+
 # line-bot_health
 
 gas(google apps script)を使ったアプリです。LINEから使えるアプリで、主に以下のことができます。
